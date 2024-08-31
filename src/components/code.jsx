@@ -36,4 +36,3 @@ const Code=() =>{
       </Container>
     )
 }
-export default Code; 
